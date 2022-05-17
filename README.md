@@ -1,9 +1,7 @@
-## Olá, 🙋🏽‍♀️ Eu sou Clebeson! 
-### Bem vindo ao meu perfil GitHub 👋
+                                                              ## Olá, 🙋🏽‍♀️ Eu sou Clebeson! 
+                                                          ### Bem vindo ao meu perfil GitHub 👋
 
 📚 Estou cursando Análise e Desenvolvimento de Sistemas
-
-👩🏽‍💻 Cursando o Bootcamp Carrefour Web Developer pela Digital Inovation One (❤️)
 
 😍 Sempre gostei de tudo que envolve tecnologia
 
@@ -11,7 +9,7 @@
 
 🌱 Atualmente estou aprendendo Java/Kotlin em Springboot
 
-🔭 Atualmente estou em busca de trabalho
+🔭 Estou em busca de trabalho
 
 🖱️ Aqui você vai encontrar alguns dos meus projetos! ✨ Enjoy ✨
 
